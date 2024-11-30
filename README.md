@@ -14,7 +14,7 @@
 - Task management (CRUD operations)
 - APIs support pagination
 - Stripe payment integration
-- - Validation and Error Handling
+- Validation and Error Handling
 - API documentation using Postman
   
 ## Technologies Used
